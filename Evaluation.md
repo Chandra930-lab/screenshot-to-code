@@ -17,3 +17,4 @@ In order to view and rate the outputs, visit your front-end at `/evals`.
 - You can also print the page as PDF to share your results with others.
 
 Generally, I run three tests for each model/prompt + stack combo and take the average score out of those tests to evaluate.
+# new app launch soon
